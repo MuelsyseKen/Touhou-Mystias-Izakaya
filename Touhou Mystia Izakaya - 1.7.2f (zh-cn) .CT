@@ -863,11 +863,23 @@ getMainForm().CommentButton.doClick()
 
 </AssemblerScript>
     </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"紧凑模式"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+LuaCall(function cycleFullCompact(sender,force) local state = not(compactmenuitem.Caption == '紧凑模式'); if force~=nil then state = not force end; compactmenuitem.Caption = state and '紧凑模式' or '完整的视图模式'; getMainForm().Splitter1.Visible = state; getMainForm().Panel4.Visible    = state; getMainForm().Panel5.Visible    = state; end; function addCompactMenu() if compactmenualreadyexists then return end; local parent = getMainForm().Menu.Items; compactmenuitem = createMenuItem(parent); parent.add(compactmenuitem); compactmenuitem.Caption = '紧凑模式'; compactmenuitem.OnClick = cycleFullCompact; compactmenualreadyexists = '是'; end; addCompactMenu(); cycleFullCompact(nil,true))
+
+[DISABLE]
+LuaCall(cycleFullCompact(nil,false))
+</AssemblerScript>
+    </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
   <Comments>作者          : long_ken
 CE 版本       : 7.4
 制作日期      : 2022年2月4日
 游戏版本      : 1.7.2f
-表版本        : 1.0</Comments>
+表版本        : 1.0
+</Comments>
 </CheatTable>
