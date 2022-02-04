@@ -15,13 +15,23 @@
 # Function (updating)
 
 Character:
+
 -Money
+
 -EXP
+
 izakaya
+
 -Effect countdown never decreases
+
 Items(Ingredients and Beverages)(❗Not Everything in it.)
+
 -Seafood
+
 -Meat
+
 -Vegetable
+
 -Other
+
 -Beverages
