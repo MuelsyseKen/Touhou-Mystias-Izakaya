@@ -7,9 +7,13 @@
 🟢 This table was my first time to make it , it may not work other version.
 
 ✏ Author        : long_ken
+
 🛠 CE version    : 7.4
+
 🗓 Date          : 2022.2.4
+
 📊 Game Version  : 1.7.2f
+
 ✅ Table Version : 1.0
 
 # Function (updating)
