@@ -14,17 +14,17 @@
 
 # Function (updating)
 
-Character:
+⬇ Character:
 
 -Money
 
 -EXP
 
-izakaya
+⬇ izakaya
 
 -Effect countdown never decreases
 
-Items(Ingredients and Beverages)(❗Not Everything in it.)
+⬇ Items(Ingredients and Beverages)(❗Not Everything in it.)
 
 -Seafood
 
