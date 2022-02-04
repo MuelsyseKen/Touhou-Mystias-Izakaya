@@ -16,6 +16,9 @@
 
 ✅ Table Version : 1.0
 
+Touhou Mystia Izakaya Cheat Engine
+Touhou Mystia Izakaya Table 
+
 # Function (updating)
 
 ⬇ Character:
