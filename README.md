@@ -32,6 +32,8 @@ Touhou Mystia Izakaya Table
 
 -Effect countdown never decreases
 
+-Food Cabinet (Beta
+
 ⬇ Items(Ingredients and Beverages)(❗Not Everything in it.)
 
 -Seafood
@@ -43,3 +45,17 @@ Touhou Mystia Izakaya Table
 -Other
 
 -Beverages
+
+-Items
+
+# update log
+
+🟠 2022-2-5
+- Add Meat - Wagyu Beef
+- Add Other - Butter
+- Add Other - 黑盐
+- Add Beverages -Cassia Wine
+- Add Items
+- Add Food Cabinet (Beta [PS:idk should i add it,because there were too many.]
+- Add Items - Bizarre Rock and Quaint Coin
+- Fix Other - 奶油 wrong address and Peach wrong address
