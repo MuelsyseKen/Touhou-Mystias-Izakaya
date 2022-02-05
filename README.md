@@ -14,7 +14,7 @@
 
 📊 Game Version  : 1.7.2f
 
-✅ Table Version : 1.0
+✅ Table Version : 1.01
 
 Touhou Mystia Izakaya Cheat Engine
 
