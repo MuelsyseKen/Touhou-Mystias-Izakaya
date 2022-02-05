@@ -114,6 +114,40 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
 }
 </AssemblerScript>
         </CheatEntry>
+        <CheatEntry>
+          <ID>239</ID>
+          <Description>"(新)保温箱(Beta测试"</Description>
+          <Color>FF0000</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"麻薯"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>2C</Offset>
+                <Offset>18</Offset>
+                <Offset>40</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>240</ID>
+              <Description>"月光团子"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>3C</Offset>
+                <Offset>18</Offset>
+                <Offset>40</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -131,19 +165,6 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
-              <ID>42</ID>
-              <Description>"八目鳗"</Description>
-              <ShowAsSigned>0</ShowAsSigned>
-              <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2D2C0C0</Address>
-              <Offsets>
-                <Offset>7C</Offset>
-                <Offset>18</Offset>
-                <Offset>50</Offset>
-                <Offset>B8</Offset>
-              </Offsets>
-            </CheatEntry>
-            <CheatEntry>
               <ID>37</ID>
               <Description>"鳟鱼"</Description>
               <ShowAsSigned>0</ShowAsSigned>
@@ -151,6 +172,19 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
               <Address>GameAssembly.dll+2D2C0C0</Address>
               <Offsets>
                 <Offset>5C</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>42</ID>
+              <Description>"八目鳗"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>7C</Offset>
                 <Offset>18</Offset>
                 <Offset>50</Offset>
                 <Offset>B8</Offset>
@@ -321,6 +355,20 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
                 <Offset>B8</Offset>
               </Offsets>
             </CheatEntry>
+            <CheatEntry>
+              <ID>237</ID>
+              <Description>"(新)和牛"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>27C</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
           </CheatEntries>
         </CheatEntry>
         <CheatEntry>
@@ -483,13 +531,13 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
               </Offsets>
             </CheatEntry>
             <CheatEntry>
-              <ID>78</ID>
+              <ID>233</ID>
               <Description>"桃子"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>GameAssembly.dll+2D2C0C0</Address>
               <Offsets>
-                <Offset>21C</Offset>
+                <Offset>20C</Offset>
                 <Offset>18</Offset>
                 <Offset>50</Offset>
                 <Offset>B8</Offset>
@@ -542,6 +590,20 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
               <Address>GameAssembly.dll+2D2C0C0</Address>
               <Offsets>
                 <Offset>8C</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>236</ID>
+              <Description>"(新)黄油"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>28C</Offset>
                 <Offset>18</Offset>
                 <Offset>50</Offset>
                 <Offset>B8</Offset>
@@ -614,12 +676,39 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
             </CheatEntry>
             <CheatEntry>
               <ID>83</ID>
-              <Description>"奶油"</Description>
+              <Description>"??"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>GameAssembly.dll+2D2C0C0</Address>
               <Offsets>
                 <Offset>1DC</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>78</ID>
+              <Description>"奶油"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>21C</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>234</ID>
+              <Description>"(新)黑盐"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>26C</Offset>
                 <Offset>18</Offset>
                 <Offset>50</Offset>
                 <Offset>B8</Offset>
@@ -739,6 +828,20 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
               </Offsets>
             </CheatEntry>
             <CheatEntry>
+              <ID>238</ID>
+              <Description>"(新)冬酿"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>13C</Offset>
+                <Offset>18</Offset>
+                <Offset>48</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
               <ID>87</ID>
               <Description>"牛奶"</Description>
               <ShowAsSigned>0</ShowAsSigned>
@@ -844,6 +947,43 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
+        <CheatEntry>
+          <ID>232</ID>
+          <Description>"(新)物品"</Description>
+          <Options moHideChildren="1"/>
+          <Color>008000</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>10</ID>
+              <Description>"(新)奇怪的石头"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>6C</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>235</ID>
+              <Description>"(新)铜钱"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>AC</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -880,6 +1020,6 @@ LuaCall(cycleFullCompact(nil,false))
 CE 版本       : 7.4
 制作日期      : 2022年2月4日
 游戏版本      : 1.7.2f
-表版本        : 1.0
+表版本        : 1.01
 </Comments>
 </CheatTable>

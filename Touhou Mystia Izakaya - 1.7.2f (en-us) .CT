@@ -116,11 +116,45 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
 }
 </AssemblerScript>
         </CheatEntry>
+        <CheatEntry>
+          <ID>242</ID>
+          <Description>"(new)Food Cabinet (Beta"</Description>
+          <Color>FF0000</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"麻薯"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>2C</Offset>
+                <Offset>18</Offset>
+                <Offset>40</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>243</ID>
+              <Description>"月光团子"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>3C</Offset>
+                <Offset>18</Offset>
+                <Offset>40</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
       <ID>36</ID>
-      <Description>"Items(Ingredients and Beverages)"</Description>
+      <Description>"Items(Ingredients,Beverages and Items)"</Description>
       <Options moHideChildren="1"/>
       <Color>400080</Color>
       <GroupHeader>1</GroupHeader>
@@ -323,6 +357,20 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
                 <Offset>B8</Offset>
               </Offsets>
             </CheatEntry>
+            <CheatEntry>
+              <ID>240</ID>
+              <Description>"(new)Wagyu Beef"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>27C</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
           </CheatEntries>
         </CheatEntry>
         <CheatEntry>
@@ -485,13 +533,13 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
               </Offsets>
             </CheatEntry>
             <CheatEntry>
-              <ID>78</ID>
+              <ID>233</ID>
               <Description>"Peach"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>GameAssembly.dll+2D2C0C0</Address>
               <Offsets>
-                <Offset>21C</Offset>
+                <Offset>20C</Offset>
                 <Offset>18</Offset>
                 <Offset>50</Offset>
                 <Offset>B8</Offset>
@@ -544,6 +592,20 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
               <Address>GameAssembly.dll+2D2C0C0</Address>
               <Offsets>
                 <Offset>8C</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>236</ID>
+              <Description>"(new)Butter"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>28C</Offset>
                 <Offset>18</Offset>
                 <Offset>50</Offset>
                 <Offset>B8</Offset>
@@ -615,13 +677,40 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
               </Offsets>
             </CheatEntry>
             <CheatEntry>
-              <ID>83</ID>
-              <Description>"奶油"</Description>
+              <ID>235</ID>
+              <Description>"??"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>GameAssembly.dll+2D2C0C0</Address>
               <Offsets>
                 <Offset>1DC</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>78</ID>
+              <Description>"奶油"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>21C</Offset>
+                <Offset>18</Offset>
+                <Offset>50</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>234</ID>
+              <Description>"(new)黑盐"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>26C</Offset>
                 <Offset>18</Offset>
                 <Offset>50</Offset>
                 <Offset>B8</Offset>
@@ -741,6 +830,20 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
               </Offsets>
             </CheatEntry>
             <CheatEntry>
+              <ID>241</ID>
+              <Description>"(new)Cassia Wine"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>13C</Offset>
+                <Offset>18</Offset>
+                <Offset>48</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
               <ID>87</ID>
               <Description>"Milk"</Description>
               <ShowAsSigned>0</ShowAsSigned>
@@ -846,6 +949,43 @@ GameAssembly.dll+36CFF1: E9 BA FE FF FF        - jmp GameAssembly.dll+36CEB0
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
+        <CheatEntry>
+          <ID>237</ID>
+          <Description>"(new)Items"</Description>
+          <Options moHideChildren="1"/>
+          <Color>008000</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>238</ID>
+              <Description>"(new)Bizarre Rock"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>6C</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>239</ID>
+              <Description>"(new)Quaint Coin"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2D2C0C0</Address>
+              <Offsets>
+                <Offset>AC</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -882,6 +1022,6 @@ LuaCall(cycleFullCompact(nil,false))
 CE version    : 7.4
 Date          : 2022.2.4
 Game Version  : 1.7.2f
-Table Version : 1.0
+Table Version : 1.01
 </Comments>
 </CheatTable>
