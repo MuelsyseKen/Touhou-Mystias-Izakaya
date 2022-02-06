@@ -12,9 +12,9 @@
 
 🗓 Date          : 2022.2.4
 
-📊 Game Version  : 1.7.2f
+📊 Game Version  : 1.7.2h
 
-✅ Table Version : 1.01
+✅ Table Version : 1.02
 
 Touhou Mystia Izakaya Cheat Engine
 
@@ -49,6 +49,12 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
+
+🟠 2022-2-7
+- Add Other - Udumbara
+- Add Other - Lunar Herb
+- Add Other - Grapes
+- Update Gameversion 1.7.2h
 
 🟠 2022-2-5
 - Add Meat - Wagyu Beef
