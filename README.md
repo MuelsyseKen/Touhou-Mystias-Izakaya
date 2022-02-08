@@ -10,11 +10,11 @@
 
 🛠 CE version    : 7.4
 
-🗓 Date          : 2022.2.4
+🗓 Date          : 2022.2.8
 
-📊 Game Version  : 1.7.2h
+📊 Game Version  : 1.7.21#4
 
-✅ Table Version : 1.02
+✅ Table Version : 1.03
 
 Touhou Mystia Izakaya Cheat Engine
 
@@ -49,6 +49,23 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
+
+🟠 2022-2-9
+- Add Seafood - Premium Tuna
+- Add Beverages - Tengu Tango
+- Add Beverages - Bloody Remy
+- Add Beverages - Divine  Wheat
+- Add Beverages - Akatsuki
+- Add Beverages - Negroni
+- Add Beverages - Godfather
+- Add Beverages - Wind Priestess
+- Add Beverages - Full Moon's Eve
+- Add Beverages - Fire Rat's Robe
+- Add Beverages - Jade Dew Tea
+- Add Items - Signed Washi
+- Add Items - Broken Runes
+- Add Items - Silver Froggy Coin
+- Add Items - Lucky Clover
 
 🟠 2022-2-7
 - Add Other - Udumbara
