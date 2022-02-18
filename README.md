@@ -10,11 +10,11 @@
 
 🛠 CE version    : 7.4
 
-🗓 Date          : 2022.2.8
+🗓 Date          : 2022.2.18
 
-📊 Game Version  : 1.7.21#4
+📊 Game Version  : 1.8.0a
 
-✅ Table Version : 1.03
+✅ Table Version : 1.04
 
 Touhou Mystia Izakaya Cheat Engine
 
@@ -49,6 +49,14 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
+🟠 2022-2-18
+- Add Beverages - Scarlet Tea
+- Add Beverages - Affogato
+- Add Beverages - Scarlet Mist
+- Add Beverages - Iceberg Kedama Lemon Juice
+- Add Beverages - The Big Popsicle!
+- Add Others - Ruby
+- adapte to game version 1.8.0a
 
 🟠 2022-2-9
 - Add Seafood - Premium Tuna
