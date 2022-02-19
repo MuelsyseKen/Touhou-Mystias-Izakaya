@@ -49,7 +49,7 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
-🟠 2022-2-18
+🟠 2022-2-19
 - adapte to game version 1.8.0b
 
 🟠 2022-2-18
