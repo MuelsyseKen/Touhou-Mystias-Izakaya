@@ -10,9 +10,9 @@
 
 🛠 CE version    : 7.4
 
-🗓 Date          : 2022.2.18
+🗓 Date          : 2022.2.19
 
-📊 Game Version  : 1.8.0a
+📊 Game Version  : 1.8.0b
 
 ✅ Table Version : 1.04
 
@@ -49,6 +49,9 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
+🟠 2022-2-18
+- adapte to game version 1.8.0b
+
 🟠 2022-2-18
 - Add Beverages - Scarlet Tea
 - Add Beverages - Affogato
