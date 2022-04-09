@@ -10,11 +10,11 @@
 
 🛠 CE version    : 7.4
 
-🗓 Date          : 2022.2.19
+🗓 Date          : 2022.4.9
 
-📊 Game Version  : 1.8.0b
+📊 Game Version  : 1.8.2p
 
-✅ Table Version : 1.05
+✅ Table Version : 1.06
 
 Touhou Mystia Izakaya Cheat Engine
 
@@ -32,8 +32,6 @@ Touhou Mystia Izakaya Table
 
 -Effect countdown never decreases
 
--Food Cabinet (Beta
-
 ⬇ Items(Ingredients and Beverages)(❗Not Everything in it.)
 
 -Seafood
@@ -49,8 +47,16 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
+
+🟠 2022-4-9
+- Remove Food Cabinet (Beta)(This funtions so useless and i don't wanna to update)
+- Remove Lucky Clover
+- Update all Items into English
+- Fix the wrong address 
+- Adapte to game version 1.8.2p
+
 🟠 2022-2-19
-- adapte to game version 1.8.0b
+- Adapte to game version 1.8.0b
 
 🟠 2022-2-18
 - Add Beverages - Scarlet Tea
@@ -59,7 +65,7 @@ Touhou Mystia Izakaya Table
 - Add Beverages - Iceberg Kedama Lemon Juice
 - Add Beverages - The Big Popsicle!
 - Add Others - Ruby
-- adapte to game version 1.8.0a
+- Adapte to game version 1.8.0a
 
 🟠 2022-2-9
 - Add Seafood - Premium Tuna
