@@ -10,11 +10,11 @@
 
 🛠 CE version    : 7.4
 
-🗓 Date          : 2022.4.9
+🗓 Date          : 2022.4.15
 
-📊 Game Version  : 1.8.2p
+📊 Game Version  : 1.8.2w
 
-✅ Table Version : 1.06
+✅ Table Version : 1.07
 
 Touhou Mystia Izakaya Cheat Engine
 
@@ -47,6 +47,9 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
+
+🟠 2022-4-15
+- Adapte to game version 1.8.2w
 
 🟠 2022-4-9
 - Remove Food Cabinet (Beta)(This funtions so useless and i don't wanna to update)
