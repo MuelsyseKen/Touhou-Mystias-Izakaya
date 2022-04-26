@@ -10,11 +10,11 @@
 
 🛠 CE version    : 7.4
 
-🗓 Date          : 2022.4.15
+🗓 Date          : 2022.4.26
 
-📊 Game Version  : 1.8.2w
+📊 Game Version  : 1.8.2x
 
-✅ Table Version : 1.07
+✅ Table Version : 1.08
 
 Touhou Mystia Izakaya Cheat Engine
 
@@ -47,6 +47,9 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
+
+🟠 2022-4-26
+- Adapte to game version 1.8.2x
 
 🟠 2022-4-15
 - Adapte to game version 1.8.2w
