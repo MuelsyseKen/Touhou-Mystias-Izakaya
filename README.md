@@ -10,9 +10,9 @@
 
 🛠 CE version    : 7.4
 
-🗓 Date          : 2022.4.26
+🗓 Date          : 2022.5.1
 
-📊 Game Version  : 1.8.2x
+📊 Game Version  : 1.8.2dd#3
 
 ✅ Table Version : 1.08
 
@@ -47,6 +47,9 @@ Touhou Mystia Izakaya Table
 -Items
 
 # update log
+
+🟠 2022-5-1
+- Adapte to game version 1.8.2dd#3
 
 🟠 2022-4-26
 - Adapte to game version 1.8.2x
