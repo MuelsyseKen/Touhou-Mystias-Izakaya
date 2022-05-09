@@ -2,9 +2,15 @@
 
 [English](README.md) **|** [简体中文](README_CN.md)
 
+🟣 The post will no longer update , because there was a better table or function. thanks for everyone support.
+
 🟢 A Cheat Engine Table For Touhou Mystia's Izakaya.
 
 🟢 This table was my first time to make it , it may not work other version.
+
+[ColonelRVH Cheat Engine Table](https://www.thecheatscript.com/2022/04/touhou-mystias-izakaya.html)
+
+[Mr.AntiFun Trainer](https://mrantifun.net/threads/%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82-touhou-mystias-izakaya-trainer.23075/)
 
 ✏ Author        : long_ken
 
